@@ -1,0 +1,94 @@
+.contenedorPrincipal {
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+}
+.cabecera {
+    width: 100%;
+    background-color: #000;
+}
+.headersig2{
+    padding-left: 5cm;
+    display: flex;
+}
+.contenedor1 {
+    align-items: center;
+    color: yellow;
+    text-align: center;
+    font-size: 18pt;
+    padding-left: 0.5cm;
+}
+.contenedor2 {
+    align-items: center;
+    color: green;
+    text-align: center;
+    font-size: 10pt;
+}
+.logo{
+    padding-top: 0.4cm;
+    height: 1cm;
+}
+.logo1{
+    align-items: center;
+    padding-left: 12cm;
+    height: 1.3cm;
+    padding-top: 0.2cm;
+}
+.log03{
+    align-items: center;
+    height: 0.4cm;
+    padding-left: 0.3cm;
+    padding-right: 0.2cm;
+}
+.log04{
+    
+    align-items: center;
+    height: 0.7cm;
+    padding-right: 0.2cm;
+}
+.menu {
+    background-color: #000;
+    text-align: center;
+    word-spacing: 1cm;
+    padding: 0.2cm;
+        padding-right: 0.2cm;
+    padding-right: 3cm;
+}
+.sinEnlace {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    word-spacing: 0px;
+    text-decoration: none;
+    font-weight: 700;
+}
+.sinEnlace2 {
+    text-align: center;
+    color:darkorange;
+    font-size: 20px;
+    word-spacing: 0px;
+    text-decoration: none;
+    font-weight: 700;
+    padding-left: 3cm;
+}
+.diseñofondo {
+    width: 100%;
+    height: 15cm;
+    position: relative;
+}
+.contenedor{
+    position: relative;
+    display: inline-block;
+    text-align: center;
+}
+.texto-encima{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.centrado{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
